@@ -55,7 +55,7 @@ const hotels = [
     Nome: "Access",
     Stanza: "Suite con Piscina",
     mq: 65,
-    prezzo: "929 su pc",
+    prezzo: "869 su pc",
     colazione: "free",
     spiagge: "Karon: 850m, kata:2.3km",
     note: "Pulizia giornaliera a pagamento",
